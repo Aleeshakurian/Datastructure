@@ -1,0 +1,20 @@
+Enter the size:7
+Enter the elements:34 56 12 90 1 23 11
+***Quick sort****
+Quick before sort:
+34
+56
+12
+90
+1
+23
+11
+Quick after quick sorting:
+1
+11
+12
+23
+34
+56
+90
+

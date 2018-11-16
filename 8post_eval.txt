@@ -1,0 +1,52 @@
+
+
+
+______POSTFIX EVALUATION______
+Enter size:5
+Enter the postfix expression:34-567/*+
+3 inserted
+4 inserted
+- operator
+4 is poped from the stack
+3 is poped from the stack
+-1 inserted
+5 inserted
+6 inserted
+7 inserted
+/ operator
+7 is poped from the stack
+6 is poped from the stack
+0 inserted
+* operator
+0 is poped from the stack
+5 is poped from the stack
+0 inserted
++ operator
+0 is poped from the stack
+-1 is poped from the stack
+-1 inserted
+The result of the postfix expression=-1
+
+
+
+______POSTFIX EVALUATION______
+Enter size:4   
+Enter the postfix expression:123*+5-
+1 inserted
+2 inserted
+3 inserted
+* operator
+3 is poped from the stack
+2 is poped from the stack
+6 inserted
++ operator
+6 is poped from the stack
+1 is poped from the stack
+7 inserted
+5 inserted
+- operator
+5 is poped from the stack
+7 is poped from the stack
+2 inserted
+The result of the postfix expression=2
+

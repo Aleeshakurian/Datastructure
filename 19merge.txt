@@ -1,0 +1,17 @@
+***** MERGE SORT*********
+Enter the limit for first array:6
+
+Enter number:12 90 87 1 2 67 
+
+ First array:
+Elements are:12 90 87 1 2 67 
+
+Enter the limit for second array:7
+
+Enter numbers:12 123 78 56 45 3 9
+
+Second array:Elements are:12 123 78 56 45 3 9 
+
+Array after sorting:
+Elements are:1 2 3 9 12 12 45 56 67 78 87 90 123 
+

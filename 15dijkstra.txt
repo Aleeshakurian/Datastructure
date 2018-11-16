@@ -1,0 +1,9 @@
+********DIJKSTRAS ALGORITHM**********
+Adjacency matrix of cost of edges
+7	5	9999	9999	
+Adjacency matrix of lowest cost between the vertices:
+7	5	8	7	
+6	6	3	2	
+9	3	6	5	
+4	4	1	6	
+

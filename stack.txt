@@ -1,0 +1,96 @@
+Enter size:4
+******STACK******
+1.PUSH
+2.POP
+3.DISPLAY
+4.EXIT
+Enter your choice:2
+STACK EMPTY
+******STACK******
+1.PUSH
+2.POP
+3.DISPLAY
+4.EXIT
+Enter your choice:3
+STACK EMPTY
+******STACK******
+1.PUSH
+2.POP
+3.DISPLAY
+4.EXIT
+Enter your choice:1
+Enter item:10
+10 pushed
+******STACK******
+1.PUSH
+2.POP
+3.DISPLAY
+4.EXIT
+Enter your choice:1
+Enter item:20
+20 pushed
+******STACK******
+1.PUSH
+2.POP
+3.DISPLAY
+4.EXIT
+Enter your choice:1
+Enter item:30
+30 pushed
+******STACK******
+1.PUSH
+2.POP
+3.DISPLAY
+4.EXIT
+Enter your choice:3
+10
+20
+30
+******STACK******
+1.PUSH
+2.POP
+3.DISPLAY
+4.EXIT
+Enter your choice:1
+Enter item:40
+40 pushed
+******STACK******
+1.PUSH
+2.POP
+3.DISPLAY
+4.EXIT
+Enter your choice:3
+10
+20
+30
+40
+******STACK******
+1.PUSH
+2.POP
+3.DISPLAY
+4.EXIT
+Enter your choice:2
+40 poped
+******STACK******
+1.PUSH
+2.POP
+3.DISPLAY
+4.EXIT
+Enter your choice:2
+30 poped
+******STACK******
+1.PUSH
+2.POP
+3.DISPLAY
+4.EXIT
+Enter your choice:3
+10
+20
+******STACK******
+1.PUSH
+2.POP
+3.DISPLAY
+4.EXIT
+Enter your choice:4
+EXIT!!!!
+

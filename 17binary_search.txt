@@ -1,0 +1,13 @@
+
+Enter limit:7
+Enter the elements:89 45 32 12 10 43 66
+Sorted array is:10 12 32 43 45 66 89 
+Enter the element to search:66
+Element 66 is found in position 6
+
+Enter limit:5
+Enter the elements:10 40 15 67 77
+Sorted array is:10 15 40 67 77 
+Enter the element to search:100
+Element not found
+

@@ -1,0 +1,45 @@
+Enter size:5
+*****QUEUE*****
+1.INSERT
+2.DELETE
+3.DISPLAY
+4.EXIT
+Enter your choice:1
+Enter element:4
+4 Inserted
+Enter your choice:1
+Enter element:8
+8 Inserted
+Enter your choice:1
+Enter element:6
+6 Inserted
+Enter your choice:1
+Enter element:7
+7 Inserted
+Enter your choice:1
+Enter element:6
+6 Inserted
+Enter your choice:1
+QUEUE IS FULL
+Enter your choice:3
+Queue elements are:
+4
+8
+6
+7
+6
+Enter your choice:2
+4 deleted
+Enter your choice:2
+8 deleted
+Enter your choice:2
+6 deleted
+Enter your choice:2
+7 deleted
+Enter your choice:2
+6 deleted
+Enter your choice:2
+QUEUE EMPTY
+Enter your choice:4   
+EXITT!!!!
+

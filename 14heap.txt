@@ -1,0 +1,8 @@
+*********HEAP SORT*********
+Enter the size of the array:5
+Elements are:78 23 45 10 90
+Before sorting:
+90	78	45	10	23	
+
+After sorting:
+10	23	45	78	90	

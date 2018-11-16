@@ -1,0 +1,74 @@
+******STACK******
+1.PUSH
+2.POP
+3.DISPLAY
+4.EXIT
+Enter your choice:1
+Enter Item:2
+2 pushed 
+******STACK******
+1.PUSH
+2.POP
+3.DISPLAY
+4.EXIT
+Enter your choice:1
+Enter Item:3
+3 pushed 
+******STACK******
+1.PUSH
+2.POP
+3.DISPLAY
+4.EXIT
+Enter your choice:1
+Enter Item:5
+5 pushed 
+******STACK******
+1.PUSH
+2.POP
+3.DISPLAY
+4.EXIT
+Enter your choice:3
+5->3->2
+******STACK******
+1.PUSH
+2.POP
+3.DISPLAY
+4.EXIT
+Enter your choice:2
+5 poped
+******STACK******
+1.PUSH
+2.POP
+3.DISPLAY
+4.EXIT
+Enter your choice:2
+3 poped
+******STACK******
+1.PUSH
+2.POP
+3.DISPLAY
+4.EXIT
+Enter your choice:2
+2 poped
+******STACK******
+1.PUSH
+2.POP
+3.DISPLAY
+4.EXIT
+Enter your choice:3
+STACK EMPTY
+******STACK******
+1.PUSH
+2.POP
+3.DISPLAY
+4.EXIT
+Enter your choice:2
+STACK EMPTY
+******STACK******
+1.PUSH
+2.POP
+3.DISPLAY
+4.EXIT
+Enter your choice:4
+EXIT!!!!
+

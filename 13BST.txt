@@ -1,0 +1,11 @@
+BINARY SEARCH TREE
+----------------------
+
+Binary tree before deletion:
+13	17	24	52	55	66	78	80	91	
+ Binary tree after deletion:
+13	24	52	55	66	78	80	91	
+ Binary tree after deletion:
+13	24	52	66	78	80	91	
+ Binary tree after deletion:
+13	24	52	66	78	91	

@@ -1,0 +1,11 @@
+_______Recursive traversal of BinaryTree______
+Enter the number of items to be inserted:5
+Enter data:6 
+Enter data:23
+Enter data:1
+Enter data:89
+Enter data:5
+Inorder Traversal:	1	5	6	23	89
+Preorder Traversal:	6	1	5	23	89
+Postorder Traversal:	5	1	89	23	6
+

@@ -1,0 +1,41 @@
+
+__________________DOUBLY LINKED LIST_________________
+1.INSERT FRONT
+2.APPEND
+3.INSERT B/W
+4.DELETE
+5.DISPLAY
+6.EXIT
+Enter your choice:1
+Enter how many number of elements:2
+enter item:10
+enter item:20
+Enter your choice:2
+Enter how many number of elements:3
+enter item:30
+enter item:40
+enter item:50
+Enter your choice:5
+20->10->30->40->50
+Enter your choice:3
+Enter how many number of elements:2
+Enter item:25
+Enter location:1
+Enter item:34
+Enter location:3
+Enter your choice:5
+20->10->25->30->34->40->50
+Enter your choice:4
+Enter the item to be deleted:55
+55 Not found
+Enter your choice:4
+Enter the item to be deleted:30
+30  element deleted
+Enter your choice:4
+Enter the item to be deleted:34
+34  element deleted
+Enter your choice:5
+20->10->25->40->50
+Enter your choice:6
+EXITT!!
+
